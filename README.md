@@ -1,2 +1,6 @@
-# Saral_API
-In this project we have all the data of Saral website in JSON format. and using this data user can create, delete , update, get data.i use express, node-js, nodemon.
+# SARAL_API
+In this I made saral api with using json files 
+In this i used Node,Npm
+`express`
+`Json`
+` with using of this things I made crud operation in which i made clone of saral bacend part.
